@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width:80%;
+    background-color: #000;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+hgroup{
+    background-color: #1a1a1b;
+    padding: 30px;
+    margin: 30px;
+    width: 90%;
+}
+
+h1,h2{
+    color: #fff;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    font-family:'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1.2em;
+    font-style: italic;
+}
+ul{
+    background-color: #1a1a1b;
+    padding: 10px;
+    margin: 10px auto;
+    width: 60%;
+}
+
+li{
+    text-transform: capitalize;
+    line-height: 2em;
+    list-style-type: disc;
+    list-style-position: outside;
+    color: #fff;
+    text-align: justify;
+    margin-left: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+}
